@@ -235,6 +235,12 @@
   .left-0 {
     left: calc(var(--spacing) * 0);
   }
+  .row-auto {
+    grid-row: auto;
+  }
+  .m-1 {
+    margin: calc(var(--spacing) * 1);
+  }
   .m-2 {
     margin: calc(var(--spacing) * 2);
   }
